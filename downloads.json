@@ -1,17 +1,17 @@
 {
   "schema": "aalyk.downloads.v1",
-  "generatedAt": "2026-11-03T17:06:37.622Z",
+  "generatedAt": "2026-11-03T18:30:52.780Z",
   "files": [
     {
       "name": "aalyk-android-arm64-v8a-v1.1.0.apk",
       "url": "downloads/aalyk-android-arm64-v8a-v1.1.0.apk",
       "checksumUrl": "downloads/aalyk-android-arm64-v8a-v1.1.0.apk.sha256",
       "size": 48013741,
-      "sha256": "0753d720065b620c1bf4d3c22911bb7a82a1e2b6575b1f3cf6076ca4cb8f9604",
+      "sha256": "8dcc374d681db3859ead1c612e02453592064763e50047eea4d4d8939a277316",
       "contentType": "application/vnd.android.package-archive",
       "abi": "arm64-v8a",
       "tag": "v1.1.0",
-      "modifiedAt": "2026-11-03T16:05:10.923Z"
+      "modifiedAt": "2026-11-03T18:30:36.392Z"
     }
   ],
   "releases": [
@@ -19,18 +19,18 @@
       "tag": "v1.1.0",
       "name": "إليك 1.1.0",
       "notes": "المقدّمة تعمل أسرع والتطبيق يفتح بعد انتهائها بالكامل.\nإزالة زر «يومياتي» من الصفحة الرئيسية.\nنص نتيجة التقييم أصبح رماديًا بدل الأزرق.\nأزرار الدفع وعرض QR انستاباي برتقالية بخط أبيض.\nإصلاح تشغيل الرسائل الصوتية داخل التطبيق.",
-      "publishedAt": "2026-11-03T16:05:10.923Z",
+      "publishedAt": "2026-11-03T18:30:36.392Z",
       "files": [
         {
           "name": "aalyk-android-arm64-v8a-v1.1.0.apk",
           "url": "downloads/aalyk-android-arm64-v8a-v1.1.0.apk",
           "checksumUrl": "downloads/aalyk-android-arm64-v8a-v1.1.0.apk.sha256",
           "size": 48013741,
-          "sha256": "0753d720065b620c1bf4d3c22911bb7a82a1e2b6575b1f3cf6076ca4cb8f9604",
+          "sha256": "8dcc374d681db3859ead1c612e02453592064763e50047eea4d4d8939a277316",
           "contentType": "application/vnd.android.package-archive",
           "abi": "arm64-v8a",
           "tag": "v1.1.0",
-          "modifiedAt": "2026-11-03T16:05:10.923Z"
+          "modifiedAt": "2026-11-03T18:30:36.392Z"
         }
       ]
     }
