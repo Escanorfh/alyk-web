@@ -1,6 +1,6 @@
 {
   "schema": "aalyk.downloads.v1",
-  "generatedAt": "2026-11-10T15:02:16.130Z",
+  "generatedAt": "2026-11-10T17:53:07.541Z",
   "files": [
     {
       "name": "aalyk-android-arm64-v8a-v1.1.0.apk",
@@ -56,13 +56,24 @@
       "abi": "armeabi-v7a",
       "tag": "v1.2.1",
       "modifiedAt": "2026-11-10T14:55:28.522Z"
+    },
+    {
+      "name": "aalyk-windows-x64-v1.2.1.exe",
+      "url": "downloads/aalyk-windows-x64-v1.2.1.exe",
+      "checksumUrl": "downloads/aalyk-windows-x64-v1.2.1.exe.sha256",
+      "size": 33313103,
+      "sha256": "a77474bfb7e8cff92494dc1c2ed35910e100ef03164573540dddc94cc3b3e89b",
+      "contentType": "application/x-msdownload",
+      "abi": null,
+      "tag": "v1.2.1",
+      "modifiedAt": "2026-11-10T17:31:59.103Z"
     }
   ],
   "releases": [
     {
       "tag": "v1.2.1",
       "name": "إليك 1.2.1",
-      "notes": "دعم كامل للغتين العربية والإنجليزية مع تبديل فوري للغة واتجاه RTL/LTR.\nتحسينات شاملة لتجاوب الواجهات على الشاشات الصغيرة والكبيرة وأحجام الخطوط.\nإشعارات تقويم محسّنة وربط جلسات وفواتير Live بالحالة الجديدة.\nمعالجة ملاحظات وتجربة المرضى داخل التطبيق.\nإصلاحات وتحسينات عامة على الأداء والاستقرار.",
+      "notes": "دعم كامل للغتين العربية والإنجليزية مع تبديل فوري للغة واتجاه RTL/LTR.\nتحسينات شاملة لتجاوب الواجهات على الشاشات الصغيرة والكبيرة وأحجام الخطوط.\nإشعارات تقويم محسّنة وربط جلسات وفواتير Live بالحالة الجديدة.\nمعالجة ملاحظات وتجربة المرضى داخل التطبيق.\nنسخة ويندوز رسمية لأول مرة: مثبّت EXE لويندوز 10 و11 (x64) بواجهة عربية وإنجليزية.\nإصلاحات وتحسينات عامة على الأداء والاستقرار.",
       "publishedAt": "2026-11-10T14:55:24.147Z",
       "files": [
         {
@@ -86,6 +97,17 @@
           "abi": "armeabi-v7a",
           "tag": "v1.2.1",
           "modifiedAt": "2026-11-10T14:55:28.522Z"
+        },
+        {
+          "name": "aalyk-windows-x64-v1.2.1.exe",
+          "url": "downloads/aalyk-windows-x64-v1.2.1.exe",
+          "checksumUrl": "downloads/aalyk-windows-x64-v1.2.1.exe.sha256",
+          "size": 33313103,
+          "sha256": "a77474bfb7e8cff92494dc1c2ed35910e100ef03164573540dddc94cc3b3e89b",
+          "contentType": "application/x-msdownload",
+          "abi": null,
+          "tag": "v1.2.1",
+          "modifiedAt": "2026-11-10T17:31:59.103Z"
         }
       ]
     },
