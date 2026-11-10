@@ -1,6 +1,6 @@
 {
   "schema": "aalyk.downloads.v1",
-  "generatedAt": "2026-11-07T00:25:30.855Z",
+  "generatedAt": "2026-11-10T15:02:16.130Z",
   "files": [
     {
       "name": "aalyk-android-arm64-v8a-v1.1.0.apk",
@@ -25,6 +25,17 @@
       "modifiedAt": "2026-11-06T14:34:30.556Z"
     },
     {
+      "name": "aalyk-android-arm64-v8a-v1.2.1.apk",
+      "url": "downloads/aalyk-android-arm64-v8a-v1.2.1.apk",
+      "checksumUrl": "downloads/aalyk-android-arm64-v8a-v1.2.1.apk.sha256",
+      "size": 49157698,
+      "sha256": "dfc4561fc92c7f27a10ef088be9e3f949b90ddf021d4612165194de337395491",
+      "contentType": "application/vnd.android.package-archive",
+      "abi": "arm64-v8a",
+      "tag": "v1.2.1",
+      "modifiedAt": "2026-11-10T14:55:24.147Z"
+    },
+    {
       "name": "aalyk-android-armeabi-v7a-v1.2.0.apk",
       "url": "downloads/aalyk-android-armeabi-v7a-v1.2.0.apk",
       "checksumUrl": "downloads/aalyk-android-armeabi-v7a-v1.2.0.apk.sha256",
@@ -34,9 +45,50 @@
       "abi": "armeabi-v7a",
       "tag": "v1.2.0",
       "modifiedAt": "2026-11-06T14:34:30.680Z"
+    },
+    {
+      "name": "aalyk-android-armeabi-v7a-v1.2.1.apk",
+      "url": "downloads/aalyk-android-armeabi-v7a-v1.2.1.apk",
+      "checksumUrl": "downloads/aalyk-android-armeabi-v7a-v1.2.1.apk.sha256",
+      "size": 42122510,
+      "sha256": "d2d5539e4643abe90cecdf64082101770bf7236204ee80441e41615e14a199dd",
+      "contentType": "application/vnd.android.package-archive",
+      "abi": "armeabi-v7a",
+      "tag": "v1.2.1",
+      "modifiedAt": "2026-11-10T14:55:28.522Z"
     }
   ],
   "releases": [
+    {
+      "tag": "v1.2.1",
+      "name": "إليك 1.2.1",
+      "notes": "دعم كامل للغتين العربية والإنجليزية مع تبديل فوري للغة واتجاه RTL/LTR.\nتحسينات شاملة لتجاوب الواجهات على الشاشات الصغيرة والكبيرة وأحجام الخطوط.\nإشعارات تقويم محسّنة وربط جلسات وفواتير Live بالحالة الجديدة.\nمعالجة ملاحظات وتجربة المرضى داخل التطبيق.\nإصلاحات وتحسينات عامة على الأداء والاستقرار.",
+      "publishedAt": "2026-11-10T14:55:24.147Z",
+      "files": [
+        {
+          "name": "aalyk-android-arm64-v8a-v1.2.1.apk",
+          "url": "downloads/aalyk-android-arm64-v8a-v1.2.1.apk",
+          "checksumUrl": "downloads/aalyk-android-arm64-v8a-v1.2.1.apk.sha256",
+          "size": 49157698,
+          "sha256": "dfc4561fc92c7f27a10ef088be9e3f949b90ddf021d4612165194de337395491",
+          "contentType": "application/vnd.android.package-archive",
+          "abi": "arm64-v8a",
+          "tag": "v1.2.1",
+          "modifiedAt": "2026-11-10T14:55:24.147Z"
+        },
+        {
+          "name": "aalyk-android-armeabi-v7a-v1.2.1.apk",
+          "url": "downloads/aalyk-android-armeabi-v7a-v1.2.1.apk",
+          "checksumUrl": "downloads/aalyk-android-armeabi-v7a-v1.2.1.apk.sha256",
+          "size": 42122510,
+          "sha256": "d2d5539e4643abe90cecdf64082101770bf7236204ee80441e41615e14a199dd",
+          "contentType": "application/vnd.android.package-archive",
+          "abi": "armeabi-v7a",
+          "tag": "v1.2.1",
+          "modifiedAt": "2026-11-10T14:55:28.522Z"
+        }
+      ]
+    },
     {
       "tag": "v1.2.0",
       "name": "إليك 1.2.0",
