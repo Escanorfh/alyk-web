@@ -1,6 +1,6 @@
 {
   "schema": "aalyk.downloads.v1",
-  "generatedAt": "2026-11-10T19:21:23.021Z",
+  "generatedAt": "2026-11-11T20:39:13.401Z",
   "files": [
     {
       "name": "aalyk-android-arm64-v8a-v1.1.0.apk",
@@ -36,6 +36,17 @@
       "modifiedAt": "2026-11-10T14:55:24.147Z"
     },
     {
+      "name": "aalyk-android-arm64-v8a-v1.2.2.apk",
+      "url": "downloads/aalyk-android-arm64-v8a-v1.2.2.apk",
+      "checksumUrl": "downloads/aalyk-android-arm64-v8a-v1.2.2.apk.sha256",
+      "size": 50898822,
+      "sha256": "f403713b54d20a50d9860311871e60d3bd036872adc4412c9ac26eb4777c5d68",
+      "contentType": "application/vnd.android.package-archive",
+      "abi": "arm64-v8a",
+      "tag": "v1.2.2",
+      "modifiedAt": "2026-11-11T20:31:41.772Z"
+    },
+    {
       "name": "aalyk-android-armeabi-v7a-v1.2.0.apk",
       "url": "downloads/aalyk-android-armeabi-v7a-v1.2.0.apk",
       "checksumUrl": "downloads/aalyk-android-armeabi-v7a-v1.2.0.apk.sha256",
@@ -58,6 +69,17 @@
       "modifiedAt": "2026-11-10T14:55:28.522Z"
     },
     {
+      "name": "aalyk-android-armeabi-v7a-v1.2.2.apk",
+      "url": "downloads/aalyk-android-armeabi-v7a-v1.2.2.apk",
+      "checksumUrl": "downloads/aalyk-android-armeabi-v7a-v1.2.2.apk.sha256",
+      "size": 43880018,
+      "sha256": "3a963e9849207d992c295bfc916a34d4c95b6a2332191e7967048bf8c105577b",
+      "contentType": "application/vnd.android.package-archive",
+      "abi": "armeabi-v7a",
+      "tag": "v1.2.2",
+      "modifiedAt": "2026-11-11T20:31:41.978Z"
+    },
+    {
       "name": "aalyk-windows-x64-v1.2.1.exe",
       "url": "downloads/aalyk-windows-x64-v1.2.1.exe",
       "checksumUrl": "downloads/aalyk-windows-x64-v1.2.1.exe.sha256",
@@ -67,9 +89,61 @@
       "abi": null,
       "tag": "v1.2.1",
       "modifiedAt": "2026-11-10T17:57:30.744Z"
+    },
+    {
+      "name": "aalyk-windows-x64-v1.2.2.exe",
+      "url": "downloads/aalyk-windows-x64-v1.2.2.exe",
+      "checksumUrl": "downloads/aalyk-windows-x64-v1.2.2.exe.sha256",
+      "size": 29710358,
+      "sha256": "d192b4fa4784c6d647d02eb1950092ba79d06f4c83f4613a4a579ec217de5316",
+      "contentType": "application/x-msdownload",
+      "abi": null,
+      "tag": "v1.2.2",
+      "modifiedAt": "2026-11-11T20:38:22.965Z"
     }
   ],
   "releases": [
+    {
+      "tag": "v1.2.2",
+      "name": "إليك 1.2.2",
+      "notes": "شاشة ترحيب جديدة بشكل تطبيق حقيقي: صورة ومقال نفسي قصير في كل صفحة، بزر «متابعة» و«تخطي».\nخمس صفحات تعريفية: القلق، الحدود، النوم، الجلسة والخصوصية، ثم دعوة البدء.\nشعار أنظف: إزالة وصف «عيادة نفسية · القاهرة» من اللوجو في شاشات الدخول والشاشة الرئيسية.\nإصلاحات وتحسينات عامة على الأداء والاستقرار.",
+      "publishedAt": "2026-11-11T20:31:41.772Z",
+      "files": [
+        {
+          "name": "aalyk-android-arm64-v8a-v1.2.2.apk",
+          "url": "downloads/aalyk-android-arm64-v8a-v1.2.2.apk",
+          "checksumUrl": "downloads/aalyk-android-arm64-v8a-v1.2.2.apk.sha256",
+          "size": 50898822,
+          "sha256": "f403713b54d20a50d9860311871e60d3bd036872adc4412c9ac26eb4777c5d68",
+          "contentType": "application/vnd.android.package-archive",
+          "abi": "arm64-v8a",
+          "tag": "v1.2.2",
+          "modifiedAt": "2026-11-11T20:31:41.772Z"
+        },
+        {
+          "name": "aalyk-android-armeabi-v7a-v1.2.2.apk",
+          "url": "downloads/aalyk-android-armeabi-v7a-v1.2.2.apk",
+          "checksumUrl": "downloads/aalyk-android-armeabi-v7a-v1.2.2.apk.sha256",
+          "size": 43880018,
+          "sha256": "3a963e9849207d992c295bfc916a34d4c95b6a2332191e7967048bf8c105577b",
+          "contentType": "application/vnd.android.package-archive",
+          "abi": "armeabi-v7a",
+          "tag": "v1.2.2",
+          "modifiedAt": "2026-11-11T20:31:41.978Z"
+        },
+        {
+          "name": "aalyk-windows-x64-v1.2.2.exe",
+          "url": "downloads/aalyk-windows-x64-v1.2.2.exe",
+          "checksumUrl": "downloads/aalyk-windows-x64-v1.2.2.exe.sha256",
+          "size": 29710358,
+          "sha256": "d192b4fa4784c6d647d02eb1950092ba79d06f4c83f4613a4a579ec217de5316",
+          "contentType": "application/x-msdownload",
+          "abi": null,
+          "tag": "v1.2.2",
+          "modifiedAt": "2026-11-11T20:38:22.965Z"
+        }
+      ]
+    },
     {
       "tag": "v1.2.1",
       "name": "إليك 1.2.1",
