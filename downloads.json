@@ -1,6 +1,6 @@
 {
   "schema": "aalyk.downloads.v1",
-  "generatedAt": "2026-11-11T20:39:13.401Z",
+  "generatedAt": "2026-11-14T14:13:16.331Z",
   "files": [
     {
       "name": "aalyk-android-arm64-v8a-v1.1.0.apk",
@@ -47,6 +47,17 @@
       "modifiedAt": "2026-11-11T20:31:41.772Z"
     },
     {
+      "name": "aalyk-android-arm64-v8a-v1.2.3.apk",
+      "url": "downloads/aalyk-android-arm64-v8a-v1.2.3.apk",
+      "checksumUrl": "downloads/aalyk-android-arm64-v8a-v1.2.3.apk.sha256",
+      "size": 50898826,
+      "sha256": "82a023eec55e0f9b8dcb1b6acca618567d1c4b0f5ec75b7893620bb9e033d040",
+      "contentType": "application/vnd.android.package-archive",
+      "abi": "arm64-v8a",
+      "tag": "v1.2.3",
+      "modifiedAt": "2026-11-14T14:12:08.098Z"
+    },
+    {
       "name": "aalyk-android-armeabi-v7a-v1.2.0.apk",
       "url": "downloads/aalyk-android-armeabi-v7a-v1.2.0.apk",
       "checksumUrl": "downloads/aalyk-android-armeabi-v7a-v1.2.0.apk.sha256",
@@ -80,6 +91,17 @@
       "modifiedAt": "2026-11-11T20:31:41.978Z"
     },
     {
+      "name": "aalyk-android-armeabi-v7a-v1.2.3.apk",
+      "url": "downloads/aalyk-android-armeabi-v7a-v1.2.3.apk",
+      "checksumUrl": "downloads/aalyk-android-armeabi-v7a-v1.2.3.apk.sha256",
+      "size": 43880022,
+      "sha256": "e658e1a66be3143456407e67a1bf2a753fc2aff5a3a2458d52f41a16c14b9493",
+      "contentType": "application/vnd.android.package-archive",
+      "abi": "armeabi-v7a",
+      "tag": "v1.2.3",
+      "modifiedAt": "2026-11-14T14:12:08.276Z"
+    },
+    {
       "name": "aalyk-windows-x64-v1.2.1.exe",
       "url": "downloads/aalyk-windows-x64-v1.2.1.exe",
       "checksumUrl": "downloads/aalyk-windows-x64-v1.2.1.exe.sha256",
@@ -103,6 +125,36 @@
     }
   ],
   "releases": [
+    {
+      "tag": "v1.2.3",
+      "name": "إليك 1.2.3",
+      "notes": "إصلاح: زر الرجوع في شاشة الحساب يعمل الآن ويعود إلى الشاشة الرئيسية فورًا.\nالإصلاح نفسه يسري على لوحة الأدمن في قسم «حسابي».\nتحسينات عامة على الاستقرار.",
+      "publishedAt": "2026-11-14T14:12:08.098Z",
+      "files": [
+        {
+          "name": "aalyk-android-arm64-v8a-v1.2.3.apk",
+          "url": "downloads/aalyk-android-arm64-v8a-v1.2.3.apk",
+          "checksumUrl": "downloads/aalyk-android-arm64-v8a-v1.2.3.apk.sha256",
+          "size": 50898826,
+          "sha256": "82a023eec55e0f9b8dcb1b6acca618567d1c4b0f5ec75b7893620bb9e033d040",
+          "contentType": "application/vnd.android.package-archive",
+          "abi": "arm64-v8a",
+          "tag": "v1.2.3",
+          "modifiedAt": "2026-11-14T14:12:08.098Z"
+        },
+        {
+          "name": "aalyk-android-armeabi-v7a-v1.2.3.apk",
+          "url": "downloads/aalyk-android-armeabi-v7a-v1.2.3.apk",
+          "checksumUrl": "downloads/aalyk-android-armeabi-v7a-v1.2.3.apk.sha256",
+          "size": 43880022,
+          "sha256": "e658e1a66be3143456407e67a1bf2a753fc2aff5a3a2458d52f41a16c14b9493",
+          "contentType": "application/vnd.android.package-archive",
+          "abi": "armeabi-v7a",
+          "tag": "v1.2.3",
+          "modifiedAt": "2026-11-14T14:12:08.276Z"
+        }
+      ]
+    },
     {
       "tag": "v1.2.2",
       "name": "إليك 1.2.2",
