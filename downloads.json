@@ -1,8 +1,8 @@
 {
   "schema": "aalyk.downloads.v1",
-  "generatedAt": "2026-11-14T14:59:46.984Z",
-  "versionName": "1.2.3",
-  "buildNumber": 2006,
+  "generatedAt": "2026-11-14T16:50:10.485Z",
+  "versionName": "1.2.4",
+  "buildNumber": 2007,
   "minBuildNumber": 0,
   "minVersionCode": 0,
   "files": [
@@ -72,9 +72,23 @@
       "abi": "arm64-v8a",
       "tag": "v1.2.3",
       "versionName": "1.2.3",
-      "buildNumber": 2006,
-      "versionCode": 4006,
+      "buildNumber": 2007,
+      "versionCode": 4007,
       "modifiedAt": "2026-11-14T14:12:08.098Z"
+    },
+    {
+      "name": "aalyk-android-arm64-v8a-v1.2.4.apk",
+      "url": "downloads/aalyk-android-arm64-v8a-v1.2.4.apk",
+      "checksumUrl": "downloads/aalyk-android-arm64-v8a-v1.2.4.apk.sha256",
+      "size": 50965766,
+      "sha256": "6dfe3c3c703fb482dbd41c8f3bd0cd96e339a52bce7078218d34db8aaba65a65",
+      "contentType": "application/vnd.android.package-archive",
+      "abi": "arm64-v8a",
+      "tag": "v1.2.4",
+      "versionName": "1.2.4",
+      "buildNumber": 2007,
+      "versionCode": 4007,
+      "modifiedAt": "2026-11-14T15:22:31.335Z"
     },
     {
       "name": "aalyk-android-armeabi-v7a-v1.2.0.apk",
@@ -128,9 +142,23 @@
       "abi": "armeabi-v7a",
       "tag": "v1.2.3",
       "versionName": "1.2.3",
-      "buildNumber": 2006,
-      "versionCode": 3006,
+      "buildNumber": 2007,
+      "versionCode": 3007,
       "modifiedAt": "2026-11-14T14:12:08.276Z"
+    },
+    {
+      "name": "aalyk-android-armeabi-v7a-v1.2.4.apk",
+      "url": "downloads/aalyk-android-armeabi-v7a-v1.2.4.apk",
+      "checksumUrl": "downloads/aalyk-android-armeabi-v7a-v1.2.4.apk.sha256",
+      "size": 43963346,
+      "sha256": "7b23efa0edd0a907af9e0538d34141f1f679aad8337ca9cf3ba00622e8a4e217",
+      "contentType": "application/vnd.android.package-archive",
+      "abi": "armeabi-v7a",
+      "tag": "v1.2.4",
+      "versionName": "1.2.4",
+      "buildNumber": 2007,
+      "versionCode": 3007,
+      "modifiedAt": "2026-11-14T15:22:32.352Z"
     },
     {
       "name": "aalyk-windows-x64-v1.2.1.exe",
@@ -163,11 +191,49 @@
   ],
   "releases": [
     {
+      "tag": "v1.2.4",
+      "name": "إليك 1.2.4",
+      "notes": "نظام تحديث تلقائي داخل التطبيق: التطبيق يكتشف الإصدارات الجديدة وينزّلها ويثبّتها من داخله، بالعربية والإنجليزية.\nالتحقق من سلامة ملف التحديث (SHA-256) قبل التثبيت، ودعم التحديث الإجباري عند الحاجة.\nفحص التحديثات يدويًا من الإعدادات في شاشة الحساب.\nنسخة ويندوز الآن معروضة في صفحة التحميل مباشرة مع تحديث تلقائي داخل التطبيق.\nتحسينات عامة على الأداء والاستقرار.",
+      "versionName": "1.2.4",
+      "buildNumber": 2007,
+      "publishedAt": "2026-11-14T15:22:31.335Z",
+      "files": [
+        {
+          "name": "aalyk-android-arm64-v8a-v1.2.4.apk",
+          "url": "downloads/aalyk-android-arm64-v8a-v1.2.4.apk",
+          "checksumUrl": "downloads/aalyk-android-arm64-v8a-v1.2.4.apk.sha256",
+          "size": 50965766,
+          "sha256": "6dfe3c3c703fb482dbd41c8f3bd0cd96e339a52bce7078218d34db8aaba65a65",
+          "contentType": "application/vnd.android.package-archive",
+          "abi": "arm64-v8a",
+          "tag": "v1.2.4",
+          "versionName": "1.2.4",
+          "buildNumber": 2007,
+          "versionCode": 4007,
+          "modifiedAt": "2026-11-14T15:22:31.335Z"
+        },
+        {
+          "name": "aalyk-android-armeabi-v7a-v1.2.4.apk",
+          "url": "downloads/aalyk-android-armeabi-v7a-v1.2.4.apk",
+          "checksumUrl": "downloads/aalyk-android-armeabi-v7a-v1.2.4.apk.sha256",
+          "size": 43963346,
+          "sha256": "7b23efa0edd0a907af9e0538d34141f1f679aad8337ca9cf3ba00622e8a4e217",
+          "contentType": "application/vnd.android.package-archive",
+          "abi": "armeabi-v7a",
+          "tag": "v1.2.4",
+          "versionName": "1.2.4",
+          "buildNumber": 2007,
+          "versionCode": 3007,
+          "modifiedAt": "2026-11-14T15:22:32.352Z"
+        }
+      ]
+    },
+    {
       "tag": "v1.2.3",
       "name": "إليك 1.2.3",
       "notes": "إصلاح: زر الرجوع في شاشة الحساب يعمل الآن ويعود إلى الشاشة الرئيسية فورًا.\nالإصلاح نفسه يسري على لوحة الأدمن في قسم «حسابي».\nتحسينات عامة على الاستقرار.",
       "versionName": "1.2.3",
-      "buildNumber": 2006,
+      "buildNumber": 2007,
       "publishedAt": "2026-11-14T14:12:08.098Z",
       "files": [
         {
@@ -180,8 +246,8 @@
           "abi": "arm64-v8a",
           "tag": "v1.2.3",
           "versionName": "1.2.3",
-          "buildNumber": 2006,
-          "versionCode": 4006,
+          "buildNumber": 2007,
+          "versionCode": 4007,
           "modifiedAt": "2026-11-14T14:12:08.098Z"
         },
         {
@@ -194,8 +260,8 @@
           "abi": "armeabi-v7a",
           "tag": "v1.2.3",
           "versionName": "1.2.3",
-          "buildNumber": 2006,
-          "versionCode": 3006,
+          "buildNumber": 2007,
+          "versionCode": 3007,
           "modifiedAt": "2026-11-14T14:12:08.276Z"
         }
       ]
