@@ -1,8 +1,8 @@
 {
   "schema": "aalyk.downloads.v1",
-  "generatedAt": "2026-11-16T22:49:46.437Z",
-  "versionName": "1.2.6",
-  "buildNumber": 2009,
+  "generatedAt": "2026-11-17T01:50:35.487Z",
+  "versionName": "1.2.7",
+  "buildNumber": 2010,
   "minBuildNumber": 0,
   "minVersionCode": 0,
   "files": [
@@ -119,6 +119,20 @@
       "modifiedAt": "2026-11-16T22:43:22.179Z"
     },
     {
+      "name": "aalyk-android-arm64-v8a-v1.2.7.apk",
+      "url": "downloads/aalyk-android-arm64-v8a-v1.2.7.apk",
+      "checksumUrl": "downloads/aalyk-android-arm64-v8a-v1.2.7.apk.sha256",
+      "size": 51097126,
+      "sha256": "a91546a541787077dad3497d6b278c5f2240bfd8ba42001f23140abdba54910c",
+      "contentType": "application/vnd.android.package-archive",
+      "abi": "arm64-v8a",
+      "tag": "v1.2.7",
+      "versionName": "1.2.7",
+      "buildNumber": 2010,
+      "versionCode": 4010,
+      "modifiedAt": "2026-11-17T01:40:20.223Z"
+    },
+    {
       "name": "aalyk-android-armeabi-v7a-v1.2.0.apk",
       "url": "downloads/aalyk-android-armeabi-v7a-v1.2.0.apk",
       "checksumUrl": "downloads/aalyk-android-armeabi-v7a-v1.2.0.apk.sha256",
@@ -217,6 +231,20 @@
       "modifiedAt": "2026-11-16T22:43:22.463Z"
     },
     {
+      "name": "aalyk-android-armeabi-v7a-v1.2.7.apk",
+      "url": "downloads/aalyk-android-armeabi-v7a-v1.2.7.apk",
+      "checksumUrl": "downloads/aalyk-android-armeabi-v7a-v1.2.7.apk.sha256",
+      "size": 44061938,
+      "sha256": "68c0404439a70ce9c4c42f01a6cdf5add09b70b3f8dc35aac9f3d75af5c0cfa0",
+      "contentType": "application/vnd.android.package-archive",
+      "abi": "armeabi-v7a",
+      "tag": "v1.2.7",
+      "versionName": "1.2.7",
+      "buildNumber": 2010,
+      "versionCode": 3010,
+      "modifiedAt": "2026-11-17T01:40:20.766Z"
+    },
+    {
       "name": "aalyk-windows-x64-v1.2.1.exe",
       "url": "downloads/aalyk-windows-x64-v1.2.1.exe",
       "checksumUrl": "downloads/aalyk-windows-x64-v1.2.1.exe.sha256",
@@ -271,9 +299,75 @@
       "buildNumber": 2009,
       "versionCode": 2009,
       "modifiedAt": "2026-11-16T22:49:10.665Z"
+    },
+    {
+      "name": "aalyk-windows-x64-v1.2.7.exe",
+      "url": "downloads/aalyk-windows-x64-v1.2.7.exe",
+      "checksumUrl": "downloads/aalyk-windows-x64-v1.2.7.exe.sha256",
+      "size": 29769620,
+      "sha256": "095336451dbbb31f6e81e0a7bf016bbc6c5022891fa090b0ced2fac13315ab72",
+      "contentType": "application/x-msdownload",
+      "abi": null,
+      "tag": "v1.2.7",
+      "versionName": "1.2.7",
+      "buildNumber": 2010,
+      "versionCode": 2010,
+      "modifiedAt": "2026-11-17T01:49:11.829Z"
     }
   ],
   "releases": [
+    {
+      "tag": "v1.2.7",
+      "name": "إليك 1.2.7",
+      "notes": "إصلاح إذن الكاميرا على أندرويد: كان الإذن غير معلَن في التطبيق فتظهر رسالة «تعذّر تبديل الكاميرا» ولا يعمل الفيديو.\nالآن يطلب التطبيق إذن الكاميرا من النظام مرة واحدة، وبعد الموافقة تعمل كاميرا البث على الموبايل.\nرسالة أوضح لو الإذن مرفوض: كيفية السماح بالكاميرا من إعدادات الجهاز.",
+      "versionName": "1.2.7",
+      "buildNumber": 2010,
+      "publishedAt": "2026-11-17T01:40:20.223Z",
+      "files": [
+        {
+          "name": "aalyk-android-arm64-v8a-v1.2.7.apk",
+          "url": "downloads/aalyk-android-arm64-v8a-v1.2.7.apk",
+          "checksumUrl": "downloads/aalyk-android-arm64-v8a-v1.2.7.apk.sha256",
+          "size": 51097126,
+          "sha256": "a91546a541787077dad3497d6b278c5f2240bfd8ba42001f23140abdba54910c",
+          "contentType": "application/vnd.android.package-archive",
+          "abi": "arm64-v8a",
+          "tag": "v1.2.7",
+          "versionName": "1.2.7",
+          "buildNumber": 2010,
+          "versionCode": 4010,
+          "modifiedAt": "2026-11-17T01:40:20.223Z"
+        },
+        {
+          "name": "aalyk-android-armeabi-v7a-v1.2.7.apk",
+          "url": "downloads/aalyk-android-armeabi-v7a-v1.2.7.apk",
+          "checksumUrl": "downloads/aalyk-android-armeabi-v7a-v1.2.7.apk.sha256",
+          "size": 44061938,
+          "sha256": "68c0404439a70ce9c4c42f01a6cdf5add09b70b3f8dc35aac9f3d75af5c0cfa0",
+          "contentType": "application/vnd.android.package-archive",
+          "abi": "armeabi-v7a",
+          "tag": "v1.2.7",
+          "versionName": "1.2.7",
+          "buildNumber": 2010,
+          "versionCode": 3010,
+          "modifiedAt": "2026-11-17T01:40:20.766Z"
+        },
+        {
+          "name": "aalyk-windows-x64-v1.2.7.exe",
+          "url": "downloads/aalyk-windows-x64-v1.2.7.exe",
+          "checksumUrl": "downloads/aalyk-windows-x64-v1.2.7.exe.sha256",
+          "size": 29769620,
+          "sha256": "095336451dbbb31f6e81e0a7bf016bbc6c5022891fa090b0ced2fac13315ab72",
+          "contentType": "application/x-msdownload",
+          "abi": null,
+          "tag": "v1.2.7",
+          "versionName": "1.2.7",
+          "buildNumber": 2010,
+          "versionCode": 2010,
+          "modifiedAt": "2026-11-17T01:49:11.829Z"
+        }
+      ]
+    },
     {
       "tag": "v1.2.6",
       "name": "إليك 1.2.6",
