@@ -1,8 +1,8 @@
 {
   "schema": "aalyk.downloads.v1",
-  "generatedAt": "2026-11-17T01:50:35.487Z",
-  "versionName": "1.2.7",
-  "buildNumber": 2010,
+  "generatedAt": "2026-11-20T16:04:43.598Z",
+  "versionName": "1.2.8",
+  "buildNumber": 2011,
   "minBuildNumber": 0,
   "minVersionCode": 0,
   "files": [
@@ -133,6 +133,20 @@
       "modifiedAt": "2026-11-17T01:40:20.223Z"
     },
     {
+      "name": "aalyk-android-arm64-v8a-v1.2.8.apk",
+      "url": "downloads/aalyk-android-arm64-v8a-v1.2.8.apk",
+      "checksumUrl": "downloads/aalyk-android-arm64-v8a-v1.2.8.apk.sha256",
+      "size": 51229086,
+      "sha256": "7c8cc8e5824b9d68bd89db09faa00ff66360b25fad9fc12cdbf62b2b3a85367d",
+      "contentType": "application/vnd.android.package-archive",
+      "abi": "arm64-v8a",
+      "tag": "v1.2.8",
+      "versionName": "1.2.8",
+      "buildNumber": 2011,
+      "versionCode": 4011,
+      "modifiedAt": "2026-11-20T14:03:53.871Z"
+    },
+    {
       "name": "aalyk-android-armeabi-v7a-v1.2.0.apk",
       "url": "downloads/aalyk-android-armeabi-v7a-v1.2.0.apk",
       "checksumUrl": "downloads/aalyk-android-armeabi-v7a-v1.2.0.apk.sha256",
@@ -245,6 +259,20 @@
       "modifiedAt": "2026-11-17T01:40:20.766Z"
     },
     {
+      "name": "aalyk-android-armeabi-v7a-v1.2.8.apk",
+      "url": "downloads/aalyk-android-armeabi-v7a-v1.2.8.apk",
+      "checksumUrl": "downloads/aalyk-android-armeabi-v7a-v1.2.8.apk.sha256",
+      "size": 44177514,
+      "sha256": "bb1c1cb97e3c1e602053d06f5c6af84706c7db8d1d0d32d072ca67850e2049ac",
+      "contentType": "application/vnd.android.package-archive",
+      "abi": "armeabi-v7a",
+      "tag": "v1.2.8",
+      "versionName": "1.2.8",
+      "buildNumber": 2011,
+      "versionCode": 3011,
+      "modifiedAt": "2026-11-20T14:03:54.235Z"
+    },
+    {
       "name": "aalyk-windows-x64-v1.2.1.exe",
       "url": "downloads/aalyk-windows-x64-v1.2.1.exe",
       "checksumUrl": "downloads/aalyk-windows-x64-v1.2.1.exe.sha256",
@@ -313,9 +341,75 @@
       "buildNumber": 2010,
       "versionCode": 2010,
       "modifiedAt": "2026-11-17T01:49:11.829Z"
+    },
+    {
+      "name": "aalyk-windows-x64-v1.2.8.exe",
+      "url": "downloads/aalyk-windows-x64-v1.2.8.exe",
+      "checksumUrl": "downloads/aalyk-windows-x64-v1.2.8.exe.sha256",
+      "size": 29801426,
+      "sha256": "46b0a4c51143ea128968925a38330f5200a09d60983d59eec1fc9dc5e9bf8747",
+      "contentType": "application/x-msdownload",
+      "abi": null,
+      "tag": "v1.2.8",
+      "versionName": "1.2.8",
+      "buildNumber": 2011,
+      "versionCode": 2011,
+      "modifiedAt": "2026-11-20T14:11:23.533Z"
     }
   ],
   "releases": [
+    {
+      "tag": "v1.2.8",
+      "name": "إليك 1.2.8",
+      "notes": "تصميم جديد لغرفة الاجتماع: هيدر ثابت للمعلومات، مسرح فيديو يأخذ المساحة كلها، وشريط تحكم دائم بدل تمرير الشاشة.\nبلاطات الفيديو الحقيقية مع تثبيت ومشاركة شاشة ومؤشرات المتحدث وجودة الاتصال من LiveKit — بدون مشاركين أو تفاعلات وهمية.\nشاشة دخول قبل الانضمام بمعاينة الكاميرا من نفس اتصال البث، مع حالة اتصال ورسائل خطأ واضحة داخل الشاشة.\nلوحات المشاركين وطابور الإيد والشات تتكيف مع الجوال والشاشات الكبيرة، مع دعم RTL كامل وأرقام عربية.\nإنهاء الجلسة للجميع بتأكيد، وتحسين عرض حالات إعادة الاتصال والصلاحيات داخل الغرفة.",
+      "versionName": "1.2.8",
+      "buildNumber": 2011,
+      "publishedAt": "2026-11-20T14:03:53.871Z",
+      "files": [
+        {
+          "name": "aalyk-android-arm64-v8a-v1.2.8.apk",
+          "url": "downloads/aalyk-android-arm64-v8a-v1.2.8.apk",
+          "checksumUrl": "downloads/aalyk-android-arm64-v8a-v1.2.8.apk.sha256",
+          "size": 51229086,
+          "sha256": "7c8cc8e5824b9d68bd89db09faa00ff66360b25fad9fc12cdbf62b2b3a85367d",
+          "contentType": "application/vnd.android.package-archive",
+          "abi": "arm64-v8a",
+          "tag": "v1.2.8",
+          "versionName": "1.2.8",
+          "buildNumber": 2011,
+          "versionCode": 4011,
+          "modifiedAt": "2026-11-20T14:03:53.871Z"
+        },
+        {
+          "name": "aalyk-android-armeabi-v7a-v1.2.8.apk",
+          "url": "downloads/aalyk-android-armeabi-v7a-v1.2.8.apk",
+          "checksumUrl": "downloads/aalyk-android-armeabi-v7a-v1.2.8.apk.sha256",
+          "size": 44177514,
+          "sha256": "bb1c1cb97e3c1e602053d06f5c6af84706c7db8d1d0d32d072ca67850e2049ac",
+          "contentType": "application/vnd.android.package-archive",
+          "abi": "armeabi-v7a",
+          "tag": "v1.2.8",
+          "versionName": "1.2.8",
+          "buildNumber": 2011,
+          "versionCode": 3011,
+          "modifiedAt": "2026-11-20T14:03:54.235Z"
+        },
+        {
+          "name": "aalyk-windows-x64-v1.2.8.exe",
+          "url": "downloads/aalyk-windows-x64-v1.2.8.exe",
+          "checksumUrl": "downloads/aalyk-windows-x64-v1.2.8.exe.sha256",
+          "size": 29801426,
+          "sha256": "46b0a4c51143ea128968925a38330f5200a09d60983d59eec1fc9dc5e9bf8747",
+          "contentType": "application/x-msdownload",
+          "abi": null,
+          "tag": "v1.2.8",
+          "versionName": "1.2.8",
+          "buildNumber": 2011,
+          "versionCode": 2011,
+          "modifiedAt": "2026-11-20T14:11:23.533Z"
+        }
+      ]
+    },
     {
       "tag": "v1.2.7",
       "name": "إليك 1.2.7",
